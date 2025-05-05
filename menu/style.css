@@ -1,0 +1,102 @@
+*{
+  margin: 0px;
+  padding: 0px
+}
+
+.menu{
+  text-decoration:underline 3px orange;
+}
+a{
+  text-decoration:none;
+  color: black;
+}
+
+header{
+  display: flex;
+  gap: 23px;
+  /*background-color: red;*/
+  padding: 10px;
+}
+nav{
+  padding-top: 22px;
+}
+.accueil{
+  padding-right:12px;
+}
+
+.conct{
+  padding-left: 12px;
+}
+
+.logo{
+  width:42px;
+  height: 12pxx;
+  padding-top:12px;
+}
+
+/*section intro*/
+.click{
+  background-color: orangered;
+  padding: 30px;
+  color: #fff;
+  text-align: center;
+}
+
+.btn{
+  background-color: black;
+  color: #fff;
+  padding: 6px 12px 6px 12px;
+}
+.click p{
+  padding-bottom: 12px;
+}
+
+/*section dev*/
+.principal{
+background-color: aliceblue;  
+  padding-top: 23px;
+}
+
+.gras{
+  font-weight: bold;
+}
+/*.dev{
+  padding-top: 23px;
+}*/
+
+.fin{
+  text-align: center;
+}
+
+.fin h3{
+  text-decoration:underline 3px orangered;
+}
+
+/*section milieu*/
+
+.milieu{
+  background-color: #fff;
+  text-align: center;
+ /* color: white;*/
+  
+}
+
+.entré h2{
+  text-decoration: underline 3px orangered;
+  padding-bottom: 23px;
+  padding-top: 23px;
+}
+.entré h3,p{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+/*fin de page*/
+footer{
+  background-color: black;
+  padding: 50px;
+}
+
+.logoXL{
+  width: 100px;
+  padding-top: 25px;
+}
